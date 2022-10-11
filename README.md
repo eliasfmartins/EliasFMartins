@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Elias Martins
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  JS and React
 <div align="center">
   <a href="https://github.com/eliasfmartins">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eliasfmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
