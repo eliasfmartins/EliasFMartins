@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elias Martins
+### Olá! Eu sou o Elias Martins *-*
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
