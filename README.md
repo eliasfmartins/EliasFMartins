@@ -8,7 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliasfmartins&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Meu Redme" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfmartins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<h1 align="center">Tecnologias que eu uso no meu dia</h1>
+<h1 align="center">Tecnologias que eu uso</h1>
 <div  align="center"> 
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
